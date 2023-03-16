@@ -1,0 +1,26 @@
+#page{
+    width: 860px;
+    margin: 0 auto;
+}
+#page img{
+    display: block;
+    width: 860px;
+}
+.margin{
+    padding-bottom: 51px;
+}
+.width{
+    display: block;
+    margin-bottom: 51px;
+    padding: 0 40px;
+    
+    box-sizing: border-box;
+}
+#page2{
+    width: 860px;
+    margin: 0 auto;
+}
+#page2 img{
+    display: block;
+    width: 860px;
+}
